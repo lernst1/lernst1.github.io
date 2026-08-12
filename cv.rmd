@@ -61,7 +61,7 @@ Biotechnologist with a B.S. in Biotechnology and laboratory experience spanning 
 
 <div class="timeline-entry">
 <div class="timeline-role">Microbiologist</div>
-<div class="cv-meta">Analytical Research Labs · May 2022 – May 2023</div>
+<div class="cv-meta">Analytical Resource Laboratories · May 2022 – May 2023</div>
 
 - Performed high-throughput aseptic sample preparation and microbial enumeration for nutraceutical, dietary supplement, and food manufacturers processing 100+ samples per day including serial dilutions, TSA and PDA plating at multiple dilution factors, coliform pad dispensing, and broth tube preparation.
 - Produced in-house media including TSA and PDA plates and dilution media using a MediaClave and automated plate pourer; performed daily equipment validation (scales and pH meter).
